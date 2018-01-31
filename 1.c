@@ -6,13 +6,13 @@ void main()
     scanf("%d",&a);
     if(a>0)
     {
-        printf("positive\n");
+        printf("POSITIVE\n");
     }
     else if(a<0)
     {
-        printf("negative\n");
+        printf("NEGATIVE\n");
     }
     else{
-            printf("zero\n");
+            printf("ZERO\n");
         }
 }
